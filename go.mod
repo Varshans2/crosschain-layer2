@@ -23,7 +23,7 @@ require (
 	github.com/mitchellh/cli v1.0.0
 	github.com/mitchellh/colorstring v0.0.0-20190213212951-d06e56a500db
 	github.com/mitchellh/mapstructure v1.4.1
-	github.com/prometheus/client_golang v1.0.0
+	github.com/prometheus/client_golang v1.11.1
 	github.com/ryanuber/columnize v2.1.0+incompatible
 	github.com/stretchr/testify v1.7.0
 	github.com/syndtr/goleveldb v1.0.1-0.20210819022825-2ae1ddf74ef7
